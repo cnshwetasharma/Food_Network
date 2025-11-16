@@ -242,8 +242,12 @@ span{
 
 .text{
     margin-bottom: 50px;
+    
 }
 
+.text h1{
+    padding: 2rem 0;
+}
 
 
 
